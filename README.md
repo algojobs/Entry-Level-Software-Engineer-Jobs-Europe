@@ -1,12 +1,14 @@
 # Entry Level Software Engineer Jobs (Europe)
 
-This data is updated weekly, with filled postings removed. Last updated: 01/30/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Entry Level Software Engineer Jobs](https://algojobs.io/new-grad-swe)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 01/29/2025 | [Junior Software Engineer \| BPM](https://algojobs.io/jobs/2987188) | [ManpowerGroup Greece](https://algojobs.io/company/manpowergroup-greece-1/) | N/A | Athens, Attica, Greece |
+| 02/03/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3037637) | [Gen](https://algojobs.io/company/gen/) | N/A | CZE - Brno / CZE - Prague |
+| 02/03/2025 | [Junior Software Engineer (Java)](https://algojobs.io/jobs/3035237) | [Kyriba Engineering Poland](https://algojobs.io/company/kyriba/) | N/A | Warsaw / Remote Poland |
+| 01/31/2025 | [Junior Software Developer](https://algojobs.io/jobs/3022048) | [GBR - Lightspeed Research Ltd](https://algojobs.io/company/kantar/) | N/A | Helsinki, Aleksanterinkatu, Finland |
 | 01/29/2025 | [Junior Software Development Engineer](https://algojobs.io/jobs/2993583) | [ADIR-Adobe Systems Software Ireland Limited](https://algojobs.io/company/adobe/) | N/A | Barcelona, Spain |
 | 01/28/2025 | [Junior Software Engineer - Product](https://algojobs.io/jobs/2975834) | [Feedzai](https://algojobs.io/company/feedzai/) | N/A | Portugal |
 | 01/28/2025 | [Junior Software Developer - C# .Net](https://algojobs.io/jobs/2979219) | [IN \| FNZ Technology (India) Private Limited](https://algojobs.io/company/fnz/) | N/A | Brno - Czech Republic, Czechia |
@@ -22,6 +24,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/08/2025 | [Junior Software Engineer](https://algojobs.io/jobs/2773375) | [FICO](https://algojobs.io/company/fico/) | N/A | Birmingham, United Kingdom |
 | 12/18/2024 | [(Junior) Software Developer](https://algojobs.io/jobs/2631181) | [Yokogawa](https://algojobs.io/company/yokogawa/) | N/A | Amersfoort, Netherlands |
 | 12/17/2024 | [Junior Software Developer](https://algojobs.io/jobs/2612357) | [BlueCat](https://algojobs.io/company/bluecatnetworks/) | N/A | Reykjavík |
-| 12/13/2024 | [Junior Software Engineer (Backend) - Payments Tribe](https://algojobs.io/jobs/2587011) | [SumUp](https://algojobs.io/company/sumup/) | N/A | Sofia, Bulgaria |
-| 12/04/2024 | [Junior Software Developer mit Fokus auf Webservice (m/w/d)](https://algojobs.io/jobs/2494820) | [311 ResMed Pty Ltd](https://algojobs.io/company/resmed/) | N/A | DE Sankt Augustin, Germany |
-| 12/04/2024 | [Junior Software Developer](https://algojobs.io/jobs/2497394) | [DXC Technology](https://algojobs.io/company/dxctechnology/) | N/A | ITA - RM - ROME, Italy |
