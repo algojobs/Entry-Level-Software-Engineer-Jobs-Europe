@@ -1,17 +1,15 @@
 # Entry Level Software Engineer Jobs (Europe)
 
-This data is updated weekly, with filled postings removed. Last updated: 02/28/2025
+This data is updated weekly, with filled postings removed. Last updated: 03/05/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Entry Level Software Engineer Jobs](https://algojobs.io/new-grad-swe)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 02/27/2025 | [Junior Software Engineer Front End](https://algojobs.io/jobs/3286357) | [State Street](https://algojobs.io/company/statestreet/) | N/A | BIG - Zielinskiego Krakow, Poland |
-| 02/26/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3264574) | [air up GmbH](https://algojobs.io/company/airup/) | N/A | Munich |
-| 02/24/2025 | [Junior Full Stack Software Development Engineer (Python) - Evisort](https://algojobs.io/jobs/3247849) | [Workday, Inc.](https://algojobs.io/company/workday/) | N/A | Ireland, Dublin |
+| 03/03/2025 | [Junior Software Engineer - Open Banking Europe-5](https://algojobs.io/jobs/3350630) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | N/A | Gdansk, Poland (Aiia) / Remote - Poland |
+| 02/28/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3302021) | [Keylane](https://algojobs.io/company/keylane/) | N/A | Utrecht, Utrecht, Netherlands (Hybrid) |
 | 02/21/2025 | [Software Engineer, Modelling (Junior)](https://algojobs.io/jobs/3227768) | [Runna](https://algojobs.io/company/runna/) | N/A | London, England, United Kingdom (Hybrid) |
 | 02/18/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3187527) | [knok](https://algojobs.io/company/knok/) | N/A | Matosinhos, Porto District, Portugal (Hybrid) |
-| 02/18/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3192871) | [391 Rocket Software Lithuania](https://algojobs.io/company/rocket/) | $20K - $38K | Vilnius, Lithuania |
 | 02/18/2025 | [Junior Software Engineer - Back End](https://algojobs.io/jobs/3187810) | [Farfetch](https://algojobs.io/company/farfetch/) | N/A | Porto (Hybrid) |
 | 02/13/2025 | [Junior / Software Engineer -](https://algojobs.io/jobs/3150648) | [Codal](https://algojobs.io/company/codalinc/) | $30K - $36K | Lincoln, UK ( Office Based ) |
 | 02/13/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3148529) | [Pipedrive](https://algojobs.io/company/pipedrive/) | N/A | Estonia, Tallinn (Hybrid) |
@@ -22,8 +20,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/05/2025 | [Hoot Hiring Sprint for Junior Software Developers: March 10th - 14th, 2025](https://algojobs.io/jobs/3046779) | [Hootsuite](https://algojobs.io/company/hootsuite/) | N/A | Bucharest, Bucharest, Romania |
 | 02/03/2025 | [Junior Software Engineer](https://algojobs.io/jobs/3037637) | [Gen](https://algojobs.io/company/gen/) | N/A | CZE - Prague / CZE - Brno |
 | 02/03/2025 | [Junior Software Engineer (Java)](https://algojobs.io/jobs/3035237) | [Kyriba HK](https://algojobs.io/company/kyriba/) | N/A | Remote Poland / Warsaw |
-| 01/31/2025 | [Junior Software Developer](https://algojobs.io/jobs/3022048) | [IND - Firefly Market Research India PVT LTD](https://algojobs.io/company/kantar/) | N/A | Helsinki, Aleksanterinkatu, Finland |
-| 01/29/2025 | [Junior Software Development Engineer](https://algojobs.io/jobs/2993583) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | N/A | Barcelona, Spain |
 | 01/28/2025 | [Junior Software Developer - C# .Net](https://algojobs.io/jobs/2979219) | [UK \| FNZ (UK) Ltd](https://algojobs.io/company/fnz/) | N/A | Brno - Czech Republic, Czechia |
 | 01/28/2025 | [Junior Software Technical Writer (part-time possible)](https://algojobs.io/jobs/2972726) | [Unblu Inc.](https://algojobs.io/company/unblu/) | N/A | Basel, Basel City, Switzerland |
 | 01/23/2025 | [Junior Software Developer](https://algojobs.io/jobs/2915371) | [Zeffy](https://algojobs.io/company/zeffy/) | N/A | Paris |
